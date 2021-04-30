@@ -1,0 +1,16 @@
+---
+version: 1
+service:
+  name: my service
+  lifecycle: 
+  tier: 
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: 
+  aliases: 
+  tags: 
+  repositories: 
+  tools: 
+  dependencies: 
